@@ -1,0 +1,15 @@
+# Core Application and Web UI
+streamlit>=1.30.0
+
+# Graph Theory and Network Analysis
+networkx>=3.0
+
+# Interactive Data Visualization
+plotly>=5.18.0
+
+# Numerical Processing and Tabular Data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Automated Unit Testing
+pytest>=7.4.0
