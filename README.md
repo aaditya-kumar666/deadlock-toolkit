@@ -3,7 +3,7 @@
 > **Academic Operating Systems Laboratory Project**  
 > **Course:** CSE316 Operating Systems  
 > **Institution:** Lovely Professional University (LPU)  
-> **Author:** Aditya Kumar Singhania  
+> **Author:** Aaditya Kumar | Aryan Singh
 > **Environment:** Python 3 | Windows Compatible | Streamlit Dashboard  
 
 ---
